@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👍 Hi, I’m Murilo Gonzaga
+- 🌱 I’m currently learning TypeScript and Nodejs 
+- 📫 bussiness email: murilogonzaga115@gmail.com
+
 
 <!--
 **ringass/ringass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
