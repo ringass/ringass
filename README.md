@@ -3,6 +3,8 @@
 - 📫 bussiness email: murilogonzaga115@gmail.com
 
 
+![Snake animation](https://github.com/ringass/ringass/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **ringass/ringass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
