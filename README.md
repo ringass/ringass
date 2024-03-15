@@ -1,6 +1,6 @@
-- 👍 Hi, I’m Murilo Gonzaga
-- 🌱 I’m currently learning TypeScript and Nodejs 
-- 📫 bussiness email: murilogonzaga115@gmail.com
+- Hi, I’m Murilo Gonzaga
+- Improving C programming
+- business email: tomaz.gonzaga@unesp.br
 
 
 <!--
