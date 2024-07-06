@@ -1,5 +1,5 @@
 - Hi, I’m Murilo Gonzaga
-- Improving C programming
+- Improving programming
 - business email: tomaz.gonzaga@unesp.br
 
 
